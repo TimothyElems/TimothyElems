@@ -2,7 +2,9 @@
 
 ``` Digital Craftsman (Developer/Creator/Musician)```
 
-I'm a Full-Stack Developer and content creator transferring knowledge to whoever seeks to receive it. All coding projects are built from the ground up, (unless otherwise stated) from planning, designing, to implementing solutions to real-world problems. All video content is made, using the same template. I publish the video content on my YouTube channel "[Bytes Of Py](https://www.youtube.com/@BytesOfPy/featured)" to 0 subscribers.
+I'm a Full-Stack Developer and content creator transferring knowledge to whoever seeks to receive it. All coding projects are built from the ground up, (unless otherwise stated) from planning, designing, to implementing solutions to real-world problems. All video content is made, using the same template. I publish the video content on my YouTube channel "[Bytes Of Py](https://www.youtube.com/@BytesOfPy/featured)" to 1 subscriber.
+
+*Disclaimer: I only post personal projects. I'll do well to ensure that these personal projects reflect my professional skills*
 
 <!--
 **TimothyElems/TimothyElems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
