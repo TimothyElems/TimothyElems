@@ -1,6 +1,6 @@
 # :guitar: Timothy Elems :basketball:
 
-```Digital Craftsman (Developer/Creator/Musician)```
+`Digital Craftsman (Developer/Creator/Musician)`
 
 <p align="center">
   <a href="https://skillicons.dev">
