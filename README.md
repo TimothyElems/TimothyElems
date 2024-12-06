@@ -13,8 +13,8 @@ I'm a Full-Stack Developer and content creator transferring knowledge to whoever
 
 *Disclaimer: I only post personal projects. I'll do well to ensure that these personal projects reflect my professional skills*
 
-- 🔭 I’m currently working on Lobo & Makertank
-- 🌱 I’m currently learning Zig
+- 🔭 I’m currently working on Luna at [Redbird Software](https://www.rbsco.org/)
+- 🌱 I’m currently learning Rust/Tauri
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
